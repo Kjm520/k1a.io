@@ -1,2 +1,18 @@
 {
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": false,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": true,
+	"editor.guides.indentation": true,
+	"workbench.colorCustomizations": {
+		"editorIndentGuide.activeBackground1": "#44444482",
+		"editorIndentGuide.background1": "#44444495"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.readonlyInclude": {
+        "c:\\Users\\kjm52\\DEV\\SITES\\k1a\\buy-later.html": true,
+        "c:\\Users\\kjm52\\DEV\\SITES\\k1a\\buy-later-privacy-policy.html": true
+    }
 }
