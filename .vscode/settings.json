@@ -1,5 +1,6 @@
 {
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"files.autoSave": "onFocusChange",
 	"files.readonlyInclude": {
 		"c:\\Users\\kjm52\\DEV\\SITES\\k1a\\buy-later.html": true,
 		"c:\\Users\\kjm52\\DEV\\SITES\\k1a\\buy-later-privacy-policy.html": true
